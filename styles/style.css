@@ -211,7 +211,7 @@ body {
 @media (max-width: 920px) {
   .banner__info {
     min-height: 368px;
-    background-position: -35px 15px;
+    background-position: -4px 15px;
   }
   .title {
     max-width: 414px;
